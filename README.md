@@ -11,18 +11,14 @@ A sleek, glassmorphism-inspired credit card UI design featuring a smooth 3D flip
 ## Preview
 
 ### 🖥️ Desktop View
-**Front of Card:**
-![Card Front - Desktop](images/preview-front-desktop.jpg.jpg)
-
-**Back of Card:**
-![Card Back - Desktop](images/preview-back-desktop.jpg.jpg)
+| Front | Back |
+|-------|------|
+| <img src="images/preview-front-desktop.jpg.jpg" width="300"/> | <img src="images/preview-back-desktop.jpg.jpg" width="300"/> |
 
 ### 📱 Mobile View
-**Front of Card:**
-![Card Front - Mobile](images/preview-front-mobile.png.jpeg)
-
-**Back of Card:**
-![Card Back - Mobile](images/preview-back-mobile.png.jpeg)
+| Front | Back |
+|-------|------|
+| <img src="images/preview-front-mobile.png.jpeg" width="150"/> | <img src="images/preview-back-mobile.png.jpeg" width="150"/> |
 
 ## Features
 - **🔄 3D Flip Animation:** Interactive card that flips to reveal the back side on hover **AND** on click, making it fully mobile-friendly and accessible for touch devices.
